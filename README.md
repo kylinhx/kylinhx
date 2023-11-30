@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning ...
 - 📫 How to reach me: ...
 - 
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/kylinhx/kylinhx/assets/github-contribution-grid-snake.svg" /></div>
 
 
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=kylinhx)
