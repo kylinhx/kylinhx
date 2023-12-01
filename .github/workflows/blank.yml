@@ -24,7 +24,9 @@ jobs:
           svg_out_path: ./assets/github-contribution-grid-snake.svg
 
       - name: Push to GitHub
-        uses: EndBug/add-and-commit@v7.2.1
+        uses: ad-m/github-push-action@master
         with:
+          github_token: ${{ secrets.PAT_TOKEN }}
           branch: main
-          message: 'Generate Contribution Snake'
+          force: true
+
