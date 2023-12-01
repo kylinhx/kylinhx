@@ -10,3 +10,5 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kylinhx" /> </div>
+
+![](https://raw.githubusercontent.com/kylinhx/kylinhx/main/assets/github-contribution-grid-snake.svg)
